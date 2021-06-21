@@ -8,8 +8,10 @@
 
 ## My Handles
  [<img src="https://img.shields.io/badge/Joy Sarkar-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/princesarkerjoy/)
- [<img src="https://img.shields.io/badge/joysarkar39-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/joysarkar39) 
- [<img src="https://img.shields.io/badge/PrimeX-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/PrimeX) 
- [<img src="https://img.shields.io/badge/jsprince-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/jsprince) 
- [<img src="https://img.shields.io/badge/jsprince-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://lightoj.com/user/primex) 
+ [<img src="https://img.shields.io/badge/joysarkar39-151515?style=for-the-badge&logo=github&logoColor=79740e">](https://profile-summary-for-github.com/user/joysarkar39) 
+ [<img src="https://img.shields.io/badge/PrimeX-151515?style=for-the-badge&logo=codeforces&logoColor=79740e">](https://codeforces.com/profile/PrimeX) 
+ [<img src="https://img.shields.io/badge/jsprince-151515?style=for-the-badge&logo=codechef&logoColor=79740e">](https://www.codechef.com/users/jsprince)
+ [<img src="https://img.shields.io/badge/primex-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://lightoj.com/user/primex)
+ [<img src="https://img.shields.io/badge/primex-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.spoj.com/users/primex/)
+ 
 ![Profile views](https://gpvc.arturio.dev/joysarkar39)
