@@ -13,4 +13,4 @@
  [<img src="https://img.shields.io/badge/primex-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://lightoj.com/user/primex)
  [<img src="https://img.shields.io/badge/primex-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.spoj.com/users/primex/)
  
-![Profile views](https://gpvc.arturio.dev/joysarkar39)
+![Profile views](https://gpvc.arturio.dev/joysarker39)
